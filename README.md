@@ -100,6 +100,8 @@
 - **[Ledger Academy](https://www.ledger.com/academy)** - Educational content on how to use hardware wallets securely.
 - **[Crypto Wallet Guide](https://www.investopedia.com/best-bitcoin-wallets-5070283)** - An overview of the best crypto wallets for different needs.
 - **[CoinDesk Learn](https://www.coindesk.com/learn/)** - Articles and tutorials on using different types of crypto wallets.
+- [HostDeFi](https://hostdefi.com) - Free token-safety scanner: A+–F grades from on-chain checks (mint/freeze authority, liquidity depth, holder concentration, contract flags) across Solana and 8 EVM chains.
+
 
 ## Community and Forums
 
